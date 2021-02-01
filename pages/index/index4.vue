@@ -1,11 +1,9 @@
 <template>
 	<view class="content">
-		<image class="logo" src="/static/photo.png"></image>
+		<image class="logo" src="/static/logo.png"></image>
 		<view class="text-area">
 			<text class="title">{{title}}</text>
 			<text class="title">{{title}}</text>
-			<text class="title">666666</text>
-			<text class="title">aaaaaaaaaaa</text>
 		</view>
 	</view>
 </template>
